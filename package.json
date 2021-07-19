@@ -1,0 +1,14 @@
+{
+    "name": "node-project-api",
+    "version": "1.0.0",
+    "description": "an awsome API reset ",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Hareish",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
